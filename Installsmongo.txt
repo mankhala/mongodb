@@ -1,0 +1,23 @@
+
+
+http://www.mongodb.org
+ mongod --dbpath=data
+ mongo
+
+ db
+     use conFusion
+     db
+     db.help()
+ db.dishes.insert({ name: "Uthapizza", description: "Test" });
+
+
+
+
+
+
+
+
+
+
+
+
